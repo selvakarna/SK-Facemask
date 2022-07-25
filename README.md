@@ -36,6 +36,9 @@ pip install -r requirements.txt
 ```
 python facemask.py
 ```
+Sample Input image:
+
+![image](https://user-images.githubusercontent.com/25522855/180682405-2e98d37b-b8dd-4ce0-9656-3f0cb39a6d45.png)
 
 
 
